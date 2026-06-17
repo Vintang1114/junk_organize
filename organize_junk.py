@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 organize_junk.py — Duplicate File Organizer
 Finds duplicate files (by name and/or content) in a folder and moves them to a trash folder.
